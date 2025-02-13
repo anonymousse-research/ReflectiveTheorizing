@@ -1,1 +1,1 @@
-Code tree for the interview series available here: https://github.com/raphischer/labeling-evaluation
+Code tree for the interview study available here: https://github.com/raphischer/labeling-evaluation
